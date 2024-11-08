@@ -1,0 +1,46 @@
+[
+    {
+        "model": "books.book",
+        "pk": "13d4a38a-84af-4c01-8174-136a5dcfcf79",
+        "fields": {
+            "title": "python cookbook",
+            "author": "brian jones",
+            "price": "40.00",
+            "date_publication": "2024-08-06",
+            "cover": "covers/home.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "88e886f6-6193-4099-896d-c4cc385b8d7f",
+        "fields": {
+            "title": "book1",
+            "author": "author1",
+            "price": "232.00",
+            "date_publication": "2024-11-08",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "9312367d-525b-4d87-bf18-1b9f98e39156",
+        "fields": {
+            "title": "book3",
+            "author": "author3",
+            "price": "77.00",
+            "date_publication": "2024-11-29",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "a9f3e840-fcf8-4ee1-b568-340897377096",
+        "fields": {
+            "title": "book2",
+            "author": "author2",
+            "price": "55.00",
+            "date_publication": "2024-11-12",
+            "cover": ""
+        }
+    }
+]
